@@ -1,0 +1,11 @@
+﻿  main.cpp
+     Создается библиотека C:\Users\VStaf\Desktop\курсач\Chessboard\x64\Debug\Chessboard.lib и объект C:\Users\VStaf\Desktop\курсач\Chessboard\x64\Debug\Chessboard.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\VStaf\Desktop\курсач\Chessboard\x64\Debug\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Chessboard.vcxproj -> C:\Users\VStaf\Desktop\курсач\Chessboard\x64\Debug\Chessboard.exe
+  C:\Users\VStaf\Desktop\курсач\Chessboard\\Libs\SFML-2.4.2-windows-vc14\SFML-2.4.2-windows-vc14-64-bit\bin\sfml-graphics-2.dll
+  Скопировано файлов: 1.
+  C:\Users\VStaf\Desktop\курсач\Chessboard\\Libs\SFML-2.4.2-windows-vc14\SFML-2.4.2-windows-vc14-64-bit\bin\sfml-system-2.dll
+  Скопировано файлов: 1.
+  C:\Users\VStaf\Desktop\курсач\Chessboard\\Libs\SFML-2.4.2-windows-vc14\SFML-2.4.2-windows-vc14-64-bit\bin\sfml-window-2.dll
+  Скопировано файлов: 1.
